@@ -1,0 +1,1598 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "language-translator",
+        "version": "1.0.0",
+        "title": "Language Translator",
+        "description": "Language Translator Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "1.0.4",
+        "author": ""
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "设置翻译目标语言（自动检测源语言）",
+                    "target": "设置翻译目标语言（自动检测源语言）"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "设置首选API",
+                    "target": "设置首选API"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "设置区域",
+                    "target": "设置区域"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "目标语言",
+                    "target": "目标语言"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "翻译器API类型",
+                    "target": "翻译器API类型"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Azure翻译器区域",
+                    "target": "Azure翻译器区域"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "API URL",
+                    "target": "API URL"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "API令牌",
+                    "target": "API令牌"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "输入URL",
+                    "target": "输入URL"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "输入令牌",
+                    "target": "输入令牌"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "插入翻译",
+                    "target": "插入翻译"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "南非荷兰语",
+                    "target": "南非荷兰语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "阿尔巴尼亚语",
+                    "target": "阿尔巴尼亚语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "阿姆哈拉语",
+                    "target": "阿姆哈拉语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "阿拉伯语",
+                    "target": "阿拉伯语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "亚美尼亚语",
+                    "target": "亚美尼亚语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "阿萨姆语",
+                    "target": "阿萨姆语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "阿塞拜疆语",
+                    "target": "阿塞拜疆语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "孟加拉语",
+                    "target": "孟加拉语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "巴什基尔语",
+                    "target": "巴什基尔语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "波斯尼亚语（拉丁字母）",
+                    "target": "波斯尼亚语（拉丁字母）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "保加利亚语",
+                    "target": "保加利亚语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "粤语（繁体）",
+                    "target": "粤语（繁体）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "加泰罗尼亚语",
+                    "target": "加泰罗尼亚语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "文言文",
+                    "target": "文言文"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "简体中文",
+                    "target": "简体中文"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "繁体中文",
+                    "target": "繁体中文"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "克罗地亚语",
+                    "target": "克罗地亚语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "捷克语",
+                    "target": "捷克语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "丹麦语",
+                    "target": "丹麦语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "达利语",
+                    "target": "达利语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "迪维希语",
+                    "target": "迪维希语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "荷兰语",
+                    "target": "荷兰语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "英语",
+                    "target": "英语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "爱沙尼亚语",
+                    "target": "爱沙尼亚语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "斐济语",
+                    "target": "斐济语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "菲律宾语",
+                    "target": "菲律宾语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "芬兰语",
+                    "target": "芬兰语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "法语",
+                    "target": "法语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "法语（加拿大）",
+                    "target": "法语（加拿大）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "格鲁吉亚语",
+                    "target": "格鲁吉亚语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "德语",
+                    "target": "德语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "希腊语",
+                    "target": "希腊语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "古吉拉特语",
+                    "target": "古吉拉特语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "海地克里奥尔语",
+                    "target": "海地克里奥尔语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "希伯来语",
+                    "target": "希伯来语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "印地语",
+                    "target": "印地语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "苗语 Daw",
+                    "target": "苗语 Daw"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "匈牙利语",
+                    "target": "匈牙利语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "冰岛语",
+                    "target": "冰岛语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "印尼语",
+                    "target": "印尼语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "因纽特语",
+                    "target": "因纽特语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "爱尔兰语",
+                    "target": "爱尔兰语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "意大利语",
+                    "target": "意大利语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "日语",
+                    "target": "日语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "卡纳达语",
+                    "target": "卡纳达语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "哈萨克语",
+                    "target": "哈萨克语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "高棉语",
+                    "target": "高棉语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "克林贡语",
+                    "target": "克林贡语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "克林贡语 (plqaD)",
+                    "target": "克林贡语 (plqaD)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "韩语",
+                    "target": "韩语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "中库尔德语",
+                    "target": "中库尔德语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "北库尔德语",
+                    "target": "北库尔德语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "吉尔吉斯语",
+                    "target": "吉尔吉斯语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "老挝语",
+                    "target": "老挝语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "拉脱维亚语",
+                    "target": "拉脱维亚语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "立陶宛语",
+                    "target": "立陶宛语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "马其顿语",
+                    "target": "马其顿语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "马达加斯加语",
+                    "target": "马达加斯加语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "马来语",
+                    "target": "马来语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "马拉雅拉姆语",
+                    "target": "马拉雅拉姆语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "马耳他语",
+                    "target": "马耳他语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "毛利语",
+                    "target": "毛利语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "马拉地语",
+                    "target": "马拉地语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "蒙古语（西里尔文）",
+                    "target": "蒙古语（西里尔文）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "蒙古语（传统）",
+                    "target": "蒙古语（传统）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "缅甸语",
+                    "target": "缅甸语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "尼泊尔语",
+                    "target": "尼泊尔语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "挪威语",
+                    "target": "挪威语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "奥里亚语",
+                    "target": "奥里亚语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "普什图语",
+                    "target": "普什图语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "波斯语",
+                    "target": "波斯语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "波兰语",
+                    "target": "波兰语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "葡萄牙语（巴西）",
+                    "target": "葡萄牙语（巴西）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "葡萄牙语（葡萄牙）",
+                    "target": "葡萄牙语（葡萄牙）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "旁遮普语",
+                    "target": "旁遮普语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "克雷塔罗奥托米语",
+                    "target": "克雷塔罗奥托米语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "罗马尼亚语",
+                    "target": "罗马尼亚语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "俄语",
+                    "target": "俄语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "萨摩亚语",
+                    "target": "萨摩亚语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "塞尔维亚语（西里尔字母）",
+                    "target": "塞尔维亚语（西里尔字母）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "塞尔维亚语（拉丁字母）",
+                    "target": "塞尔维亚语（拉丁字母）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "斯洛伐克语",
+                    "target": "斯洛伐克语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "斯洛文尼亚语",
+                    "target": "斯洛文尼亚语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "西班牙语",
+                    "target": "西班牙语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "斯瓦希里语",
+                    "target": "斯瓦希里语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "瑞典语",
+                    "target": "瑞典语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "塔希提语",
+                    "target": "塔希提语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "泰米尔语",
+                    "target": "泰米尔语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "鞑靼语",
+                    "target": "鞑靼语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "泰卢固语",
+                    "target": "泰卢固语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "泰语",
+                    "target": "泰语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "藏语",
+                    "target": "藏语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "提格里尼亚语",
+                    "target": "提格里尼亚语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "汤加语",
+                    "target": "汤加语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "土耳其语",
+                    "target": "土耳其语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "土库曼语",
+                    "target": "土库曼语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "乌克兰语",
+                    "target": "乌克兰语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "乌尔都语",
+                    "target": "乌尔都语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "维吾尔语",
+                    "target": "维吾尔语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "乌兹别克语（拉丁）",
+                    "target": "乌兹别克语（拉丁）"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "越南语",
+                    "target": "越南语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "威尔士语",
+                    "target": "威尔士语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "尤卡坦玛雅语",
+                    "target": "尤卡坦玛雅语"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "全球",
+                    "target": "全球"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "东亚",
+                    "target": "东亚"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "东南亚",
+                    "target": "东南亚"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "美国中部",
+                    "target": "美国中部"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "美国东部",
+                    "target": "美国东部"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "美国东部 2",
+                    "target": "美国东部 2"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "美国西部",
+                    "target": "美国西部"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "美国中北部",
+                    "target": "美国中北部"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "美国中南部",
+                    "target": "美国中南部"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "北欧",
+                    "target": "北欧"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "西欧",
+                    "target": "西欧"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "日本西部",
+                    "target": "日本西部"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "日本东部",
+                    "target": "日本东部"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "巴西南部",
+                    "target": "巴西南部"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "澳大利亚东部",
+                    "target": "澳大利亚东部"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "澳大利亚东南部",
+                    "target": "澳大利亚东南部"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "南印度",
+                    "target": "南印度"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "中印度",
+                    "target": "中印度"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "西印度",
+                    "target": "西印度"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "加拿大中部",
+                    "target": "加拿大中部"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "加拿大东部",
+                    "target": "加拿大东部"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "英国南部",
+                    "target": "英国南部"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "英国西部",
+                    "target": "英国西部"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "美国中西部",
+                    "target": "美国中西部"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "美国西部2",
+                    "target": "美国西部2"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "韩国中部",
+                    "target": "韩国中部"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "韩国南部",
+                    "target": "韩国南部"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "法国中部",
+                    "target": "法国中部"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "法国南部",
+                    "target": "法国南部"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "澳大利亚中部",
+                    "target": "澳大利亚中部"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "澳大利亚中部2",
+                    "target": "澳大利亚中部2"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "阿联酋中部",
+                    "target": "阿联酋中部"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "阿联酋北部",
+                    "target": "阿联酋北部"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "南非北部",
+                    "target": "南非北部"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "南非西部",
+                    "target": "南非西部"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "瑞士北部",
+                    "target": "瑞士北部"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "瑞士西部",
+                    "target": "瑞士西部"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "德国北部",
+                    "target": "德国北部"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "德国中西部",
+                    "target": "德国中西部"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "挪威西部",
+                    "target": "挪威西部"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "挪威东部",
+                    "target": "挪威东部"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "内置",
+                    "target": "内置"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Azure",
+                    "target": "Azure"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "LibreTranslate",
+                    "target": "LibreTranslate"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "语言翻译器设置",
+                    "target": "语言翻译器设置"
+                }
+            ],
+            "regex": [
+                {
+                    "source": "setName(\"目标语言\")",
+                    "target": "setName(\"目标语言\")"
+                },
+                {
+                    "source": "setDesc(\"设置翻译目标语言（自动检测源语言）\")",
+                    "target": "setDesc(\"设置翻译目标语言（自动检测源语言）\")"
+                },
+                {
+                    "source": "setName(\"翻译器API类型\")",
+                    "target": "setName(\"翻译器API类型\")"
+                },
+                {
+                    "source": "setDesc(\"设置首选API\")",
+                    "target": "setDesc(\"设置首选API\")"
+                },
+                {
+                    "source": "setName(\"Azure翻译器区域\")",
+                    "target": "setName(\"Azure翻译器区域\")"
+                },
+                {
+                    "source": "setDesc(\"设置区域\")",
+                    "target": "setDesc(\"设置区域\")"
+                },
+                {
+                    "source": "setName(\"API URL\")",
+                    "target": "setName(\"API URL\")"
+                },
+                {
+                    "source": "setPlaceholder(\"输入URL\")",
+                    "target": "setPlaceholder(\"输入URL\")"
+                },
+                {
+                    "source": "log(\"New api url: \"+value);this.plugin.settings.translateApiUrl=value;yield this.plugin.saveSettings()}));text.setValue(this.plugin.settings.translateApiUrl);text.inputEl.setAttr(\"rows\",4);text.inputEl.addClass(\"settings_area\")",
+                    "target": "log(\"New api url: \"+value);this.plugin.settings.translateApiUrl=value;yield this.plugin.saveSettings()}));text.setValue(this.plugin.settings.translateApiUrl);text.inputEl.setAttr(\"rows\",4);text.inputEl.addClass(\"settings_area\")"
+                },
+                {
+                    "source": "setName(\"API令牌\")",
+                    "target": "setName(\"API令牌\")"
+                },
+                {
+                    "source": "setPlaceholder(\"输入令牌\")",
+                    "target": "setPlaceholder(\"输入令牌\")"
+                },
+                {
+                    "source": "Notice(`Exceeded ${this.settings.maxCharacters} max characters!`)",
+                    "target": "Notice(`Exceeded ${this.settings.maxCharacters} max characters!`)"
+                },
+                {
+                    "source": "text:\"南非荷兰语\"",
+                    "target": "text:\"南非荷兰语\""
+                },
+                {
+                    "source": "text:\"阿尔巴尼亚语\"",
+                    "target": "text:\"阿尔巴尼亚语\""
+                },
+                {
+                    "source": "text:\"阿姆哈拉语\"",
+                    "target": "text:\"阿姆哈拉语\""
+                },
+                {
+                    "source": "text:\"阿拉伯语\"",
+                    "target": "text:\"阿拉伯语\""
+                },
+                {
+                    "source": "text:\"亚美尼亚语\"",
+                    "target": "text:\"亚美尼亚语\""
+                },
+                {
+                    "source": "text:\"阿萨姆语\"",
+                    "target": "text:\"阿萨姆语\""
+                },
+                {
+                    "source": "text:\"阿塞拜疆语\"",
+                    "target": "text:\"阿塞拜疆语\""
+                },
+                {
+                    "source": "text:\"孟加拉语\"",
+                    "target": "text:\"孟加拉语\""
+                },
+                {
+                    "source": "text:\"巴什基尔语\"",
+                    "target": "text:\"巴什基尔语\""
+                },
+                {
+                    "source": "text:\"波斯尼亚语（拉丁字母）\"",
+                    "target": "text:\"波斯尼亚语（拉丁字母）\""
+                },
+                {
+                    "source": "text:\"保加利亚语\"",
+                    "target": "text:\"保加利亚语\""
+                },
+                {
+                    "source": "text:\"粤语（繁体）\"",
+                    "target": "text:\"粤语（繁体）\""
+                },
+                {
+                    "source": "text:\"加泰罗尼亚语\"",
+                    "target": "text:\"加泰罗尼亚语\""
+                },
+                {
+                    "source": "text:\"文言文\"",
+                    "target": "text:\"文言文\""
+                },
+                {
+                    "source": "text:\"简体中文\"",
+                    "target": "text:\"简体中文\""
+                },
+                {
+                    "source": "text:\"繁体中文\"",
+                    "target": "text:\"繁体中文\""
+                },
+                {
+                    "source": "text:\"克罗地亚语\"",
+                    "target": "text:\"克罗地亚语\""
+                },
+                {
+                    "source": "text:\"捷克语\"",
+                    "target": "text:\"捷克语\""
+                },
+                {
+                    "source": "text:\"丹麦语\"",
+                    "target": "text:\"丹麦语\""
+                },
+                {
+                    "source": "text:\"达利语\"",
+                    "target": "text:\"达利语\""
+                },
+                {
+                    "source": "text:\"迪维希语\"",
+                    "target": "text:\"迪维希语\""
+                },
+                {
+                    "source": "text:\"荷兰语\"",
+                    "target": "text:\"荷兰语\""
+                },
+                {
+                    "source": "text:\"英语\"",
+                    "target": "text:\"英语\""
+                },
+                {
+                    "source": "text:\"爱沙尼亚语\"",
+                    "target": "text:\"爱沙尼亚语\""
+                },
+                {
+                    "source": "text:\"斐济语\"",
+                    "target": "text:\"斐济语\""
+                },
+                {
+                    "source": "text:\"菲律宾语\"",
+                    "target": "text:\"菲律宾语\""
+                },
+                {
+                    "source": "text:\"芬兰语\"",
+                    "target": "text:\"芬兰语\""
+                },
+                {
+                    "source": "text:\"法语\"",
+                    "target": "text:\"法语\""
+                },
+                {
+                    "source": "text:\"法语（加拿大）\"",
+                    "target": "text:\"法语（加拿大）\""
+                },
+                {
+                    "source": "text:\"格鲁吉亚语\"",
+                    "target": "text:\"格鲁吉亚语\""
+                },
+                {
+                    "source": "text:\"德语\"",
+                    "target": "text:\"德语\""
+                },
+                {
+                    "source": "text:\"希腊语\"",
+                    "target": "text:\"希腊语\""
+                },
+                {
+                    "source": "text:\"古吉拉特语\"",
+                    "target": "text:\"古吉拉特语\""
+                },
+                {
+                    "source": "text:\"海地克里奥尔语\"",
+                    "target": "text:\"海地克里奥尔语\""
+                },
+                {
+                    "source": "text:\"希伯来语\"",
+                    "target": "text:\"希伯来语\""
+                },
+                {
+                    "source": "text:\"印地语\"",
+                    "target": "text:\"印地语\""
+                },
+                {
+                    "source": "text:\"苗语 Daw\"",
+                    "target": "text:\"苗语 Daw\""
+                },
+                {
+                    "source": "text:\"匈牙利语\"",
+                    "target": "text:\"匈牙利语\""
+                },
+                {
+                    "source": "text:\"冰岛语\"",
+                    "target": "text:\"冰岛语\""
+                },
+                {
+                    "source": "text:\"印尼语\"",
+                    "target": "text:\"印尼语\""
+                },
+                {
+                    "source": "text:\"因纽特语\"",
+                    "target": "text:\"因纽特语\""
+                },
+                {
+                    "source": "text:\"爱尔兰语\"",
+                    "target": "text:\"爱尔兰语\""
+                },
+                {
+                    "source": "text:\"意大利语\"",
+                    "target": "text:\"意大利语\""
+                },
+                {
+                    "source": "text:\"日语\"",
+                    "target": "text:\"日语\""
+                },
+                {
+                    "source": "text:\"卡纳达语\"",
+                    "target": "text:\"卡纳达语\""
+                },
+                {
+                    "source": "text:\"哈萨克语\"",
+                    "target": "text:\"哈萨克语\""
+                },
+                {
+                    "source": "text:\"高棉语\"",
+                    "target": "text:\"高棉语\""
+                },
+                {
+                    "source": "text:\"克林贡语\"",
+                    "target": "text:\"克林贡语\""
+                },
+                {
+                    "source": "text:\"克林贡语 (plqaD)\"",
+                    "target": "text:\"克林贡语 (plqaD)\""
+                },
+                {
+                    "source": "text:\"韩语\"",
+                    "target": "text:\"韩语\""
+                },
+                {
+                    "source": "text:\"中库尔德语\"",
+                    "target": "text:\"中库尔德语\""
+                },
+                {
+                    "source": "text:\"北库尔德语\"",
+                    "target": "text:\"北库尔德语\""
+                },
+                {
+                    "source": "text:\"吉尔吉斯语\"",
+                    "target": "text:\"吉尔吉斯语\""
+                },
+                {
+                    "source": "text:\"老挝语\"",
+                    "target": "text:\"老挝语\""
+                },
+                {
+                    "source": "text:\"拉脱维亚语\"",
+                    "target": "text:\"拉脱维亚语\""
+                },
+                {
+                    "source": "text:\"立陶宛语\"",
+                    "target": "text:\"立陶宛语\""
+                },
+                {
+                    "source": "text:\"马其顿语\"",
+                    "target": "text:\"马其顿语\""
+                },
+                {
+                    "source": "text:\"马达加斯加语\"",
+                    "target": "text:\"马达加斯加语\""
+                },
+                {
+                    "source": "text:\"马来语\"",
+                    "target": "text:\"马来语\""
+                },
+                {
+                    "source": "text:\"马拉雅拉姆语\"",
+                    "target": "text:\"马拉雅拉姆语\""
+                },
+                {
+                    "source": "text:\"马耳他语\"",
+                    "target": "text:\"马耳他语\""
+                },
+                {
+                    "source": "text:\"毛利语\"",
+                    "target": "text:\"毛利语\""
+                },
+                {
+                    "source": "text:\"马拉地语\"",
+                    "target": "text:\"马拉地语\""
+                },
+                {
+                    "source": "text:\"蒙古语（西里尔文）\"",
+                    "target": "text:\"蒙古语（西里尔文）\""
+                },
+                {
+                    "source": "text:\"蒙古语（传统）\"",
+                    "target": "text:\"蒙古语（传统）\""
+                },
+                {
+                    "source": "text:\"缅甸语\"",
+                    "target": "text:\"缅甸语\""
+                },
+                {
+                    "source": "text:\"尼泊尔语\"",
+                    "target": "text:\"尼泊尔语\""
+                },
+                {
+                    "source": "text:\"挪威语\"",
+                    "target": "text:\"挪威语\""
+                },
+                {
+                    "source": "text:\"奥里亚语\"",
+                    "target": "text:\"奥里亚语\""
+                },
+                {
+                    "source": "text:\"普什图语\"",
+                    "target": "text:\"普什图语\""
+                },
+                {
+                    "source": "text:\"波斯语\"",
+                    "target": "text:\"波斯语\""
+                },
+                {
+                    "source": "text:\"波兰语\"",
+                    "target": "text:\"波兰语\""
+                },
+                {
+                    "source": "text:\"葡萄牙语（巴西）\"",
+                    "target": "text:\"葡萄牙语（巴西）\""
+                },
+                {
+                    "source": "text:\"葡萄牙语（葡萄牙）\"",
+                    "target": "text:\"葡萄牙语（葡萄牙）\""
+                },
+                {
+                    "source": "text:\"旁遮普语\"",
+                    "target": "text:\"旁遮普语\""
+                },
+                {
+                    "source": "text:\"克雷塔罗奥托米语\"",
+                    "target": "text:\"克雷塔罗奥托米语\""
+                },
+                {
+                    "source": "text:\"罗马尼亚语\"",
+                    "target": "text:\"罗马尼亚语\""
+                },
+                {
+                    "source": "text:\"俄语\"",
+                    "target": "text:\"俄语\""
+                },
+                {
+                    "source": "text:\"萨摩亚语\"",
+                    "target": "text:\"萨摩亚语\""
+                },
+                {
+                    "source": "text:\"塞尔维亚语（西里尔字母）\"",
+                    "target": "text:\"塞尔维亚语（西里尔字母）\""
+                },
+                {
+                    "source": "text:\"塞尔维亚语（拉丁字母）\"",
+                    "target": "text:\"塞尔维亚语（拉丁字母）\""
+                },
+                {
+                    "source": "text:\"斯洛伐克语\"",
+                    "target": "text:\"斯洛伐克语\""
+                },
+                {
+                    "source": "text:\"斯洛文尼亚语\"",
+                    "target": "text:\"斯洛文尼亚语\""
+                },
+                {
+                    "source": "text:\"西班牙语\"",
+                    "target": "text:\"西班牙语\""
+                },
+                {
+                    "source": "text:\"斯瓦希里语\"",
+                    "target": "text:\"斯瓦希里语\""
+                },
+                {
+                    "source": "text:\"瑞典语\"",
+                    "target": "text:\"瑞典语\""
+                },
+                {
+                    "source": "text:\"塔希提语\"",
+                    "target": "text:\"塔希提语\""
+                },
+                {
+                    "source": "text:\"泰米尔语\"",
+                    "target": "text:\"泰米尔语\""
+                },
+                {
+                    "source": "text:\"鞑靼语\"",
+                    "target": "text:\"鞑靼语\""
+                },
+                {
+                    "source": "text:\"泰卢固语\"",
+                    "target": "text:\"泰卢固语\""
+                },
+                {
+                    "source": "text:\"泰语\"",
+                    "target": "text:\"泰语\""
+                },
+                {
+                    "source": "text:\"藏语\"",
+                    "target": "text:\"藏语\""
+                },
+                {
+                    "source": "text:\"提格里尼亚语\"",
+                    "target": "text:\"提格里尼亚语\""
+                },
+                {
+                    "source": "text:\"汤加语\"",
+                    "target": "text:\"汤加语\""
+                },
+                {
+                    "source": "text:\"土耳其语\"",
+                    "target": "text:\"土耳其语\""
+                },
+                {
+                    "source": "text:\"土库曼语\"",
+                    "target": "text:\"土库曼语\""
+                },
+                {
+                    "source": "text:\"乌克兰语\"",
+                    "target": "text:\"乌克兰语\""
+                },
+                {
+                    "source": "text:\"乌尔都语\"",
+                    "target": "text:\"乌尔都语\""
+                },
+                {
+                    "source": "text:\"维吾尔语\"",
+                    "target": "text:\"维吾尔语\""
+                },
+                {
+                    "source": "text:\"乌兹别克语（拉丁）\"",
+                    "target": "text:\"乌兹别克语（拉丁）\""
+                },
+                {
+                    "source": "text:\"越南语\"",
+                    "target": "text:\"越南语\""
+                },
+                {
+                    "source": "text:\"威尔士语\"",
+                    "target": "text:\"威尔士语\""
+                },
+                {
+                    "source": "text:\"尤卡坦玛雅语\"",
+                    "target": "text:\"尤卡坦玛雅语\""
+                },
+                {
+                    "source": "text:\"全球\"",
+                    "target": "text:\"全球\""
+                },
+                {
+                    "source": "text:\"东亚\"",
+                    "target": "text:\"东亚\""
+                },
+                {
+                    "source": "text:\"东南亚\"",
+                    "target": "text:\"东南亚\""
+                },
+                {
+                    "source": "text:\"美国中部\"",
+                    "target": "text:\"美国中部\""
+                },
+                {
+                    "source": "text:\"美国东部\"",
+                    "target": "text:\"美国东部\""
+                },
+                {
+                    "source": "text:\"美国西部\"",
+                    "target": "text:\"美国西部\""
+                },
+                {
+                    "source": "text:\"美国中北部\"",
+                    "target": "text:\"美国中北部\""
+                },
+                {
+                    "source": "text:\"美国中南部\"",
+                    "target": "text:\"美国中南部\""
+                },
+                {
+                    "source": "text:\"北欧\"",
+                    "target": "text:\"北欧\""
+                },
+                {
+                    "source": "text:\"西欧\"",
+                    "target": "text:\"西欧\""
+                },
+                {
+                    "source": "text:\"日本西部\"",
+                    "target": "text:\"日本西部\""
+                },
+                {
+                    "source": "text:\"日本东部\"",
+                    "target": "text:\"日本东部\""
+                },
+                {
+                    "source": "text:\"巴西南部\"",
+                    "target": "text:\"巴西南部\""
+                },
+                {
+                    "source": "text:\"澳大利亚东部\"",
+                    "target": "text:\"澳大利亚东部\""
+                },
+                {
+                    "source": "text:\"澳大利亚东南部\"",
+                    "target": "text:\"澳大利亚东南部\""
+                },
+                {
+                    "source": "text:\"南印度\"",
+                    "target": "text:\"南印度\""
+                },
+                {
+                    "source": "text:\"中印度\"",
+                    "target": "text:\"中印度\""
+                },
+                {
+                    "source": "text:\"西印度\"",
+                    "target": "text:\"西印度\""
+                },
+                {
+                    "source": "text:\"加拿大中部\"",
+                    "target": "text:\"加拿大中部\""
+                },
+                {
+                    "source": "text:\"加拿大东部\"",
+                    "target": "text:\"加拿大东部\""
+                },
+                {
+                    "source": "text:\"英国南部\"",
+                    "target": "text:\"英国南部\""
+                },
+                {
+                    "source": "text:\"英国西部\"",
+                    "target": "text:\"英国西部\""
+                },
+                {
+                    "source": "text:\"美国中西部\"",
+                    "target": "text:\"美国中西部\""
+                },
+                {
+                    "source": "text:\"韩国中部\"",
+                    "target": "text:\"韩国中部\""
+                },
+                {
+                    "source": "text:\"韩国南部\"",
+                    "target": "text:\"韩国南部\""
+                },
+                {
+                    "source": "text:\"法国中部\"",
+                    "target": "text:\"法国中部\""
+                },
+                {
+                    "source": "text:\"法国南部\"",
+                    "target": "text:\"法国南部\""
+                },
+                {
+                    "source": "text:\"澳大利亚中部\"",
+                    "target": "text:\"澳大利亚中部\""
+                },
+                {
+                    "source": "text:\"阿联酋中部\"",
+                    "target": "text:\"阿联酋中部\""
+                },
+                {
+                    "source": "text:\"阿联酋北部\"",
+                    "target": "text:\"阿联酋北部\""
+                },
+                {
+                    "source": "text:\"南非北部\"",
+                    "target": "text:\"南非北部\""
+                },
+                {
+                    "source": "text:\"南非西部\"",
+                    "target": "text:\"南非西部\""
+                },
+                {
+                    "source": "text:\"瑞士北部\"",
+                    "target": "text:\"瑞士北部\""
+                },
+                {
+                    "source": "text:\"瑞士西部\"",
+                    "target": "text:\"瑞士西部\""
+                },
+                {
+                    "source": "text:\"德国北部\"",
+                    "target": "text:\"德国北部\""
+                },
+                {
+                    "source": "text:\"德国中西部\"",
+                    "target": "text:\"德国中西部\""
+                },
+                {
+                    "source": "text:\"挪威西部\"",
+                    "target": "text:\"挪威西部\""
+                },
+                {
+                    "source": "text:\"挪威东部\"",
+                    "target": "text:\"挪威东部\""
+                },
+                {
+                    "source": "text:\"内置\"",
+                    "target": "text:\"内置\""
+                },
+                {
+                    "source": "text:\"语言翻译器设置\"",
+                    "target": "text:\"语言翻译器设置\""
+                },
+                {
+                    "source": "name:\"插入翻译\"",
+                    "target": "name:\"插入翻译\""
+                }
+            ]
+        }
+    }
+}
